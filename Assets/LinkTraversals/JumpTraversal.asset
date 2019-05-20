@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc39df51db7872d47b6f169fa3f23dbd, type: 3}
+  m_Name: JumpTraversal
+  m_EditorClassIdentifier: 
+  typeOfLink: 8
+  traversalMethod: {fileID: 11500000, guid: 9f3a9b56654f8fc409eaf4088c863980, type: 3}
+  data: {fileID: 11400000, guid: 70cc20f368c3daa43bcbb23ba4d90d51, type: 2}
